@@ -1,0 +1,95 @@
+FIleName: reddit_comments_2008.txt
+BST running
+run time: 5.194991958E9
+Total Word Count: 16492769
+Unique Words: 191901
+depth: 311
+hashmap running
+run time: 1.693410041E9
+Total Word Count: 16492769
+Unique Words: 191901
+Num of Collisions: 354601
+
+FIleName: reddit_comments_2009.txt
+BST running
+run time: 1.3544265458E10
+Total Word Count: 40263318
+Unique Words: 368559
+depth: 499
+hashmap running
+run time: 3.759746625E9
+Total Word Count: 40263318
+Unique Words: 368559
+Num of Collisions: 776731
+
+FIleName: reddit_comments_2010.txt
+BST running
+run time: 1.4700505333E10
+Total Word Count: 46955203
+Unique Words: 428006
+depth: 238
+hashmap running
+run time: 4.129654875E9
+Total Word Count: 46955203
+Unique Words: 428006
+Num of Collisions: 1425761
+
+FIleName: reddit_comments_2011.txt
+BST running
+run time: 1.4091846375E10
+Total Word Count: 43372614
+Unique Words: 424995
+depth: 302
+hashmap running
+run time: 3.578307625E9
+Total Word Count: 43372614
+Unique Words: 424995
+Num of Collisions: 1785333
+
+FIleName: reddit_comments_2012.txt
+BST running
+run time: 1.2731795292E10
+Total Word Count: 40213302
+Unique Words: 431132
+depth: 434
+hashmap running
+run time: 2.752984792E9
+Total Word Count: 40213302
+Unique Words: 431132
+Num of Collisions: 2151033
+
+FIleName: reddit_comments_2013.txt
+BST running
+run time: 1.2421238834E10
+Total Word Count: 39236476
+Unique Words: 454010
+depth: 287
+hashmap running
+run time: 2.800845709E9
+Total Word Count: 39236476
+Unique Words: 454010
+Num of Collisions: 2539587
+
+FIleName: reddit_comments_2014.txt
+BST running
+run time: 1.2965474875E10
+Total Word Count: 41543298
+Unique Words: 491737
+depth: 174
+hashmap running
+run time: 2.926304916E9
+Total Word Count: 41543298
+Unique Words: 491737
+Num of Collisions: 2965829
+
+FIleName: reddit_comments_2015.txt
+BST running
+run time: 1.3135300458E10
+Total Word Count: 41151652
+Unique Words: 551608
+depth: 155
+hashmap running
+run time: 3.224981292E9
+Total Word Count: 41151652
+Unique Words: 551608
+Num of Collisions: 3451919

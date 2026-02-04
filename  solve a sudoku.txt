@@ -1,0 +1,93 @@
+    /// solve a sudoku
+    //
+    // esssentially the fundamental recursive backtracking algorithm. 
+    // - Andy Day
+    // 
+    // Unless I've made a logical bug (which might be likely), this framework should be 
+    // trivially generifiable to work for any recursive backtracking problem
+    // returns true is encounters valid sudoku state (no conflicts of rows and columns or 3x3's)
+    // else false
+    // bool solve(Stack (stores rows and cols of previous moves) stack, int currentRow, int currentVal)
+
+    //   if there are no remaining squares
+    //       return true if the sudoku is correctly solved else false
+    //   l 
+    //   for next place in list of possible place
+    //        push current location onto move stack and place that number on the board (new Location(next place))
+    //        ensure that the current board is valid after the push and if it's not valid skip this iteration.
+    //        display the board here if you need to.
+    //        if (solve(stack, next place))
+    //             return true
+    //        pop current location from move stack and remove that number from the board -> board[next place.row][loc.col] = 0
+    //
+    //        
+    //   return false
+
+    // f(row, col) = row * 9 + col: [0, 81)
+    // f_row(m) =  row
+    // f_col(m) = col
+    //
+    // f(f_row(m), f_col(m)) = m
+
+    // to call solve, you pick a location (assumedly randomly, and pass a new stack to it, but keep reference to the stack!)
+    // if the solve returns true then the positions stored in the stack are the positions need to play to win the game
+    // otherwise the stack *should* be empty.
+
+    // - returns the number of rows
+    public int getRows() {
+        return board.length;
+    }
+
+    // tests if the given value is a valid value at the given row and column of the
+    // board.
+    // It should make sure the value is unique in its row, in its column, and in its
+    // local 3x3 square.
+    // You can figure out which local 3x3 square it is in by using integer division.
+    // (Note, you probably want to test that the value is in the range [1,9] before
+    // doing anything else.)
+
+    /*
+
+    private class Location {
+        private final int row;
+        private final int col;
+        
+        public Location(int row, int col) {
+            this.row = row;
+            this.col = col;
+        }
+
+        public int getRow() {
+            return row;
+        }
+
+        public int getCol() {
+            return col;
+        }
+    }
+    */
+
+
+    // /**
+    //  * Given a location, get a legal cell that can fill that location.
+    //  * @param location
+    //  * @return
+    //  */
+    // public Cell getLegalCell(Location location) { 
+    //     for (int cellValue = 1; cellValue < 10; cellValue++) {
+    //         if (validValue(location.getRow(), location.getCol(), cellValue)) {
+    //             return new Cell(cellValue);
+    //         } 
+    //     }
+    // }
+
+    // public Location getBestLocation() {
+    //     for (int i = 0; i < getRows(); i++) {
+    //         for (int j = 0; j < getCols(); j++) {
+    //             if (board[i][j].getValue() == 0) {
+    //                 return new Location(i, j);
+    //             }
+    //         }
+    //     }
+    //     return null;
+    // }

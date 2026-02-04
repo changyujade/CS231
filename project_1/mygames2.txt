@@ -1,0 +1,14 @@
+playerTurnBoolean: true
+dealerTurnBoolean: true
+entered if statement
+entered if statement
+-1
+Value on player's hands
+`Hand:`Card:8``Card:10``
+Value on dealer's hands
+`Hand:`Card:10``Card:7``Card:2``
+total value of player's hand: 18
+total value of dealer's hand: 19
+Value on player's hands
+`Hand:`Card:8``Card:10``Value on dealer's hands
+`Hand:`Card:10``Card:7``Card:2``

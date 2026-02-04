@@ -1,0 +1,88 @@
+FIleName: reddit_comments_2008.txt
+BST running
+run time: 5.36540825E9
+Total Word Count: 16492769
+Unique Words: 191901
+depth: 311
+hashmap running
+run time: 1.56672225E9
+Total Word Count: 16492769
+Unique Words: 191901
+Num of Collisions: 354601
+FIleName: reddit_comments_2009.txt
+BST running
+run time: 1.34175795E10
+Total Word Count: 40263318
+Unique Words: 368559
+depth: 499
+hashmap running
+run time: 3.530963834E9
+Total Word Count: 40263318
+Unique Words: 368559
+Num of Collisions: 422130
+FIleName: reddit_comments_2010.txt
+BST running
+run time: 1.5192183584E10
+Total Word Count: 46955203
+Unique Words: 428006
+depth: 238
+hashmap running
+run time: 4.123665834E9
+Total Word Count: 46955203
+Unique Words: 428006
+Num of Collisions: 649030
+FIleName: reddit_comments_2011.txt
+BST running
+run time: 1.4628520875E10
+Total Word Count: 43372614
+Unique Words: 424995
+depth: 302
+hashmap running
+run time: 3.865316875E9
+Total Word Count: 43372614
+Unique Words: 424995
+Num of Collisions: 359572
+FIleName: reddit_comments_2012.txt
+BST running
+run time: 1.3287774834E10
+Total Word Count: 40213302
+Unique Words: 431132
+depth: 434
+hashmap running
+run time: 3.296790791E9
+Total Word Count: 40213302
+Unique Words: 431132
+Num of Collisions: 365700
+FIleName: reddit_comments_2013.txt
+BST running
+run time: 1.3548022125E10
+Total Word Count: 39236476
+Unique Words: 454010
+depth: 287
+hashmap running
+run time: 2.937719458E9
+Total Word Count: 39236476
+Unique Words: 454010
+Num of Collisions: 388554
+FIleName: reddit_comments_2014.txt
+BST running
+run time: 1.3963695333E10
+Total Word Count: 41543298
+Unique Words: 491737
+depth: 174
+hashmap running
+run time: 3.069395958E9
+Total Word Count: 41543298
+Unique Words: 491737
+Num of Collisions: 426242
+FIleName: reddit_comments_2015.txt
+BST running
+run time: 1.4739438584E10
+Total Word Count: 41151652
+Unique Words: 551608
+depth: 155
+hashmap running
+run time: 3.388250333E9
+Total Word Count: 41151652
+Unique Words: 551608
+Num of Collisions: 486090

@@ -1,0 +1,5 @@
+initial hand of the player: `Hand:`Card:7``Card:7``
+initial hand of the dealer: `Hand:`Card:10``Card:9``
+final hand of the player: `Hand:`Card:7``Card:7``Card:3``: 17
+final hand of the dealer: `Hand:`Card:10``Card:9``: 19
+player loses

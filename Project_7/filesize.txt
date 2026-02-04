@@ -1,0 +1,8 @@
+90M reddit_comments_2008.txt
+217M reddit_comments_2009.txt
+249M reddit_comments_2010.txt
+229M reddit_comments_2011.txt
+211M reddit_comments_2012.txt
+206M reddit_comments_2013.txt
+219M reddit_comments_2014.txt
+218M reddit_comments_2015.txt

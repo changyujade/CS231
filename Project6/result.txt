@@ -1,0 +1,40 @@
+Filename: reddit_comments_2008.txt
+Total Word Count: 16492769
+Unique Words: 191901
+Currently on Filename: reddit_comments_2008.txt
+Run time 7380ms
+Filename: reddit_comments_2009.txt
+Total Word Count: 56756087
+Unique Words: 453252
+Currently on Filename: reddit_comments_2009.txt
+Run time 17287ms
+Filename: reddit_comments_2010.txt
+Total Word Count: 103711290
+Unique Words: 711896
+Currently on Filename: reddit_comments_2010.txt
+Run time 20219ms
+Filename: reddit_comments_2011.txt
+Total Word Count: 147083904
+Unique Words: 941830
+Currently on Filename: reddit_comments_2011.txt
+Run time 19036ms
+Filename: reddit_comments_2012.txt
+Total Word Count: 187297206
+Unique Words: 1163699
+Currently on Filename: reddit_comments_2012.txt
+Run time 17977ms
+Filename: reddit_comments_2013.txt
+Total Word Count: 226533682
+Unique Words: 1390967
+Currently on Filename: reddit_comments_2013.txt
+Run time 17337ms
+Filename: reddit_comments_2014.txt
+Total Word Count: 268076980
+Unique Words: 1633687
+Currently on Filename: reddit_comments_2014.txt
+Run time 18840ms
+Filename: reddit_comments_2015.txt
+Total Word Count: 309228632
+Unique Words: 1916131
+Currently on Filename: reddit_comments_2015.txt
+Run time 18893ms

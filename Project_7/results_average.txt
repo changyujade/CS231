@@ -1,0 +1,90 @@
+FIleName: reddit_comments_2008.txt
+BST running
+FIleName: reddit_comments_2008.txt
+BST running
+average runtime: 5.280690055333333E9
+Total Word Count: 82463845
+Unique Words: 191901
+depth: 311
+hashmap running
+average runtime: 1.7104984996666667E9
+Total Word Count: 82463845
+Unique Words: 191901
+Num of Collisions: 159236
+FIleName: reddit_comments_2009.txt
+BST running
+average runtime: 1.3797591166666666E10
+Total Word Count: 201316590
+Unique Words: 368559
+depth: 499
+hashmap running
+average runtime: 3.2851947363333335E9
+Total Word Count: 201316590
+Unique Words: 368559
+Num of Collisions: 303306
+FIleName: reddit_comments_2010.txt
+BST running
+average runtime: 1.4669214708666666E10
+Total Word Count: 234776015
+Unique Words: 428006
+depth: 238
+hashmap running
+average runtime: 3.454710708E9
+Total Word Count: 234776015
+Unique Words: 428006
+Num of Collisions: 362573
+FIleName: reddit_comments_2011.txt
+BST running
+average runtime: 1.4491447361333334E10
+Total Word Count: 216863070
+Unique Words: 424995
+depth: 302
+hashmap running
+average runtime: 3.477154139E9
+Total Word Count: 216863070
+Unique Words: 424995
+Num of Collisions: 359572
+FIleName: reddit_comments_2012.txt
+BST running
+average runtime: 1.3441698625E10
+Total Word Count: 201066510
+Unique Words: 431132
+depth: 434
+hashmap running
+average runtime: 3.2029512496666665E9
+Total Word Count: 201066510
+Unique Words: 431132
+Num of Collisions: 365700
+FIleName: reddit_comments_2013.txt
+BST running
+average runtime: 1.3395869569333334E10
+Total Word Count: 196182380
+Unique Words: 454010
+depth: 287
+hashmap running
+average runtime: 3.1998990416666665E9
+Total Word Count: 196182380
+Unique Words: 454010
+Num of Collisions: 388554
+FIleName: reddit_comments_2014.txt
+BST running
+average runtime: 1.4060252694333334E10
+Total Word Count: 207716490
+Unique Words: 491737
+depth: 174
+hashmap running
+average runtime: 3.4551679863333335E9
+Total Word Count: 207716490
+Unique Words: 491737
+Num of Collisions: 426242
+FIleName: reddit_comments_2015.txt
+BST running
+average runtime: 1.4428533625333334E10
+Total Word Count: 205758260
+Unique Words: 551608
+depth: 155
+hashmap running
+average runtime: 3.6532600136666665E9
+Total Word Count: 205758260
+Unique Words: 551608
+Num of Collisions: 422538
